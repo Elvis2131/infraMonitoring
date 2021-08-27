@@ -1,5 +1,5 @@
 """
-Author: Lartey Elvis
+Author: Lartey Elvis.
 Date: 27th Aug, 2021
 Description: Parsing and storing app logs.
 """
